@@ -2,7 +2,6 @@
 
 <img width="1439" height="703" alt="Screenshot 2026-06-29 at 8 44 33 PM" src="https://github.com/user-attachments/assets/cc65e214-07ab-4a64-b689-0e5f67d2a1b0" />
 
-
 A production-ready full-stack Sign Language (ASL) gesture recognition system. Built with Python, FastAPI, SQLite, TensorFlow/Keras, and React (Vite).
 
 ## System Features
