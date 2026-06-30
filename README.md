@@ -1,6 +1,6 @@
 # Sign Language Recognition System
 
-A production-ready full-stack американский Sign Language (ASL) gesture recognition system. Built with Python, FastAPI, SQLite, TensorFlow/Keras, and React (Vite).
+A production-ready full-stack Sign Language (ASL) gesture recognition system. Built with Python, FastAPI, SQLite, TensorFlow/Keras, and React (Vite).
 
 ## System Features
 1. **Interactive ASL Finger-Spelling Guide**: View description guides for all static hand signs from A to Y (excluding J and Z which require motion).
